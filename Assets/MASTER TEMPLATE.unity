@@ -360,12 +360,12 @@ Prefab:
       propertyPath: m_RootOrder
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 223304434084222644, guid: 85a2c623b85c45f4fbcbd5bedc7a4b15,
+    - target: {fileID: 223628561244607812, guid: 85a2c623b85c45f4fbcbd5bedc7a4b15,
         type: 2}
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 310392701}
-    - target: {fileID: 223628561244607812, guid: 85a2c623b85c45f4fbcbd5bedc7a4b15,
+    - target: {fileID: 223304434084222644, guid: 85a2c623b85c45f4fbcbd5bedc7a4b15,
         type: 2}
       propertyPath: m_Camera
       value: 
