@@ -3708,7 +3708,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 53d3559e08bf78441a985407290890c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Bomb: {fileID: 114454383462897410}
   Audio: {fileID: 114915473299363512}
   Keypad:
   - {fileID: 114613016174767876}
